@@ -10,16 +10,22 @@ Gender Demographics,
 Age Distribution,
 Outlier Detection,
 
- **Visualizations******
+ **Visualizations**
 Histogram & KDE plot of salaries
+
 Age distribution histogram
+
 Boxplot showing salary outliers
 
 ** **Technologies Used****
 Python (Pandas, Matplotlib, Seaborn)
+
 Jupyter Notebook for analysis
 **Key Insights**
 Salary distribution is heavily right-skewed
+
 Gender pay gap exists in the dataset
+
 Developers in the dataset are predominantly young
+
 High-end salary outliers (> $250K) are present
