@@ -21,6 +21,8 @@ Boxplot showing salary outliers
 Python (Pandas, Matplotlib, Seaborn)
 
 Jupyter Notebook for analysis
+
+
 **Key Insights**
 Salary distribution is heavily right-skewed
 
