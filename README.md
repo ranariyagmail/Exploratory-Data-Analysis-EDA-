@@ -1,14 +1,14 @@
 # Exploratory Data Analysis – Stack Overflow Developer Survey (2019)
 
-**** Project Overview****
+**Project Overview**
 This project performs Exploratory Data Analysis (EDA) on the Stack Overflow Developer Survey 2019 dataset.
 The goal is to analyze developer salaries, demographic trends, and identify outliers to uncover meaningful insights.
 
  **Analysis Performed**
-Salary Distribution
-Gender Demographics
-Age Distribution
-Outlier Detection
+Salary Distribution,
+Gender Demographics,
+Age Distribution,
+Outlier Detection,
 
  **Visualizations******
 Histogram & KDE plot of salaries
